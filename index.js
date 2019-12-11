@@ -5,10 +5,7 @@ const fi = (function() {
     },
 
     each: function(collection, callback) {
-<<<<<<< HEAD
-=======
-      let
->>>>>>> 972e695ff8c364fcb7533a6ea93c99291e84f3f4
+364fcb7533a6ea93c99291e84f3f4
       for(var key in collection){
         callback(collection[key])
       }
